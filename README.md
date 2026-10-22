@@ -35,6 +35,11 @@ I am a Computational Biologist and Bioinformatics Scientist with **6+ years of e
 
 ## 🚀 Featured Open Source Tools & Pipelines
 
+### 📚 [BioReader](https://github.com/BurakBulut-sh/BioReader)
+> *Intelligent scientific PDF reader and literature workspace for bioinformatics researchers.*  
+- High-fidelity PDF rendering with visual monograph layout, precision coordinate navigation, and reading comfort modes (Paper, Sepia, Dark).
+- Semantic research notes linked to exact manuscript coordinates with offline biological glossary (2,000+ terms) and multi-format exports.
+
 ### 🔍 [SampleSheriff](https://github.com/BurakBulut-sh/samplesheriff)
 > *A fast, strict, nf-core-style sample sheet and metadata validator for bioinformatics pipelines.*  
 - Enforces pre-flight validation on FASTQ pairing, BAM headers, VCF integrity, and custom YAML schemas.
