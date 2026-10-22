@@ -29,14 +29,14 @@ I am a Computational Biologist and Bioinformatics Scientist with **6+ years of e
 | **Workflow & HPC** | Snakemake, SLURM, Docker, Nextflow, Git, CI/CD (GitHub Actions) |
 | **Genomics & Variant Calling** | BWA-MEM, SAMtools, GATK4 (HaplotypeCaller gVCF), Picard, bcftools, Trimmomatic, PEAR, accuMUlate |
 | **Transcriptomics & Omics** | HISAT2, Subread (featureCounts), DESeq2, limma, biomaRt, Pathview, Meta-Analysis |
-| **AI & Bio-Agents** | Local LLMs (Ollama, vLLM), LangChain, LlamaIndex, RAG, Agentic Tool Use, Vector DBs |
+| **AI & Bio-Agents** | Local LLMs (llama.cpp, HuggingFace, Hermes Agent), LangChain, LlamaIndex, RAG, Agentic Tool Use, Vector DBs |
 
 ---
 
 ## 🚀 Featured Open Source Tools & Pipelines
 
 ### 🔍 [SampleSheriff](https://github.com/BurakBulut-sh/samplesheriff)
-> *A fast, strict, nf-core–style sample sheet and metadata validator for bioinformatics pipelines.*  
+> *A fast, strict, nf-core-style sample sheet and metadata validator for bioinformatics pipelines.*  
 - Enforces pre-flight validation on FASTQ pairing, BAM headers, VCF integrity, and custom YAML schemas.
 - Prevents expensive multi-day HPC pipeline crashes through instant fail-fast diagnostics.
 
@@ -61,12 +61,12 @@ I am a Computational Biologist and Bioinformatics Scientist with **6+ years of e
 
 ## 📚 Selected Publications
 
-1. **Bulut, B.**, & Pfenninger, M. (2026). Developmental speed and chronological time exert opposing effects on the spontaneous mutation rate in *Chironomus riparius*. ***Evolution Letters***, 10(3), 283–293. [DOI: 10.1093/evlett/qrag010](https://doi.org/10.1093/evlett/qrag010)
+1. **Bulut, B.**, & Pfenninger, M. (2026). Developmental speed and chronological time exert opposing effects on the spontaneous mutation rate in *Chironomus riparius*. ***Evolution Letters***, 10(3), 283-293. [DOI: 10.1093/evlett/qrag010](https://doi.org/10.1093/evlett/qrag010)
 2. Pfenninger, M., Nieto-Blazquez, M. E., & **Bulut, B.** (2026). Divergent Thermal Reaction Norms of the Spontaneous Mutation Rate Among Populations of *Chironomus riparius*. ***Molecular Ecology***, 35(15), e70503. [DOI: 10.1111/mec.70503](https://doi.org/10.1111/mec.70503)
 3. **Bulut, B.**, Geiss, M., Bernard, M., Doria, H. B., Feldmeyer, B., & Pfenninger, M. (2025). Dissecting Oxidative Stress and Organismic Response to a Temperature Gradient in the Midge *Chironomus riparius*. ***Ecology and Evolution***, 15(12), e72625. [DOI: 10.1002/ece3.72625](https://doi.org/10.1002/ece3.72625)
 4. Eberhardt, L., Doria, H. B., **Bulut, B.**, Feldmeyer, B., & Pfenninger, M. (2025). Transcriptomics predicts artificial light at night's (ALAN) negative fitness effects and altered gene expression patterns in the midge *Chironomus riparius* (Diptera: Chironomidae). ***Environmental Pollution***, 369, 125827. [DOI: 10.1016/j.envpol.2025.125827](https://doi.org/10.1016/j.envpol.2025.125827)
 5. **Bulut, B.**, Rigano, L., Doria, H. B., Gemüth, G., & Pfenninger, M. (2024). A multigenerational study can detect the evolutionary response to BaP exposure in the non-biting freshwater midge *Chironomus riparius*. ***Chemosphere***, 358, 142242. [DOI: 10.1016/j.chemosphere.2024.142242](https://doi.org/10.1016/j.chemosphere.2024.142242)
-6. **Bulut, B.**, Gürel, S., Ünüvar, Ö. C., Gürel, E., Şahin, Y., Çabuk, U., & Ünlü, E. S. (2023). Meta Analysis of Sugar Beet (*Beta vulgaris* L.) Transcriptome Profiles Under Different Biotic and Abiotic Stress Conditions. ***Tropical Plant Biology***, 16(3), 199–207. [DOI: 10.1007/s12042-023-09344-y](https://doi.org/10.1007/s12042-023-09344-y)
+6. **Bulut, B.**, Gürel, S., Ünüvar, Ö. C., Gürel, E., Şahin, Y., Çabuk, U., & Ünlü, E. S. (2023). Meta Analysis of Sugar Beet (*Beta vulgaris* L.) Transcriptome Profiles Under Different Biotic and Abiotic Stress Conditions. ***Tropical Plant Biology***, 16(3), 199-207. [DOI: 10.1007/s12042-023-09344-y](https://doi.org/10.1007/s12042-023-09344-y)
 
 ---
 
